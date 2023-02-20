@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+
+react/node_modules
+react/.gitignore
+react/.git
+react/package-lock.json
+
+prisma-server-and-migrate/node_modules
+prisma-server-and-migrate/.gitignore
+prisma-server-and-migrate/.git
+prisma-server-and-migrate/package-lock.json
